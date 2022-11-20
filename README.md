@@ -24,3 +24,5 @@ Dentro da pasta "spec" criar um arquivo chamado "pokemon_spec.rb"</br>
 Colar no arquivo "pokemon_spec.rb" o conteúdo do arquivo "pokemon_spec.rb" do repositório</br>
 
 Executar pelo terminal o comando "rspec"</br>
+
+Estamos testando a API contida em : https://github.com/rasolo/pokemon
